@@ -1,0 +1,8 @@
+TELEGRAM_TOKEN=your_telegram_bot_token_here
+TELEGRAM_NAME=abc
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=your_email@gmail.com
+SMTP_PASSWORD=your_app_password
+ADMIN_CHAT_IDS=123456789,987654321
+REDIS_URL=redis://localhost:6379/0
