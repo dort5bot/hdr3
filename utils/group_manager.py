@@ -1,3 +1,4 @@
+#Grup Yöneticisi (utils/group_manager.py)
 import json
 from typing import Dict, List, Set
 from pathlib import Path
