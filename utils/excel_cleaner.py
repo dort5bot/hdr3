@@ -1,3 +1,4 @@
+#Excel Temizleyici (utils/excel_cleaner.py)
 from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
 from typing import Dict, List, Tuple
